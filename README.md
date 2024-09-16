@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I specialize in AI and machine learning, with a pa
 - Research projects that push the boundaries of AI technology
 
 ## 📫 How to reach me
-- LinkedIn: [Srikanth Banda](www.linkedin.com/in/banda-srikanth-2237321a3)
+- LinkedIn: [Srikanth Banda](https://www.linkedin.com/in/banda-srikanth-2237321a3)
 - Email: sbanda@buffalo.edu/bandasrikanth97@gmail.com
 
 <!---
